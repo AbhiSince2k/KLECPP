@@ -1,4 +1,4 @@
-//write same code in java?
+
 #include<iostream>
 using namespace std;
 
